@@ -32,4 +32,4 @@ After collecting my data, I am planning to plot graphs in order to understand da
 I will form and test my hypothesis. I will use statistical tests in order to test my hypothesis and according to the results I will form the findings part.
 
 ## Findings
-I will evaluate the results of data analysis and decide which hypothesis are true which are not. After finding the factors that effects my step count I will use this information to guess my step count by using Machine Learning.
+I will evaluate the results of data analysis and decide which hypothesis are true which are not. After finding the factors that affects my step count I will use this information to guess my step count by using Machine Learning.
