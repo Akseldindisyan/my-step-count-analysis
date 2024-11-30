@@ -11,8 +11,8 @@ In my project I will dive deep in my personal data and find the most important f
   * Months
   * Seasons
   * Years  
-* **Sleep**
-* **Exams**
+* **Sleep Time**
+* **Exam Dates**
 * **Emotional State**
 * **Weight**
 
@@ -22,3 +22,14 @@ In my project I will dive deep in my personal data and find the most important f
 - [ ] Data Analysis
 - [ ] Findings
 
+## Data Collection
+I have collected my step data from samsung health and apple health because my new phone is samsung and my old phone was an iphone. I have manually written down my weight, emotional state and sleep time. I write down my emotional state as a number between 0 to 10 that correlates with how good I feel at the end of the day. Sleep Time is the hour that I decide to go sleep for that day. I have collected my exam dates from my past emails.
+
+## Data Visualisation
+After collecting my data, I am planning to plot graphs in order to understand data better and find outliers and correlations. I will also use these graphs to come up with interesting questions and hypothesis.
+
+## Data Analysis
+I will form and test my hypothesis. I will use statistical tests in order to test my hypothesis and according to the results I will form the findings part.
+
+## Findings
+I will evaluate the results of data analysis and decide which hypothesis are true which are not. After finding the factors that effects my step count I will use this information to guess my step count by using Machine Learning.
