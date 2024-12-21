@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore all XML and XLSX files
+*.xml
+*.xlsx
+
 # Distribution / packaging
 .Python
 build/
