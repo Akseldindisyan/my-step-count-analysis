@@ -8,6 +8,6 @@ I am Aksel Dindisyan (32109), and I have done a project on analyzing my step dat
 
 * The presentation website is on [My Step Count Analysis Website](https://akseldindisyan.github.io/my-step-count-analysis/)
 
-* Python code related to my project can be found [here](https://github.com/Akseldindisyan/my-step-count-analysis/blob/main/main.ipynb).
+* Python code related to my project can be found [here](https://github.com/Akseldindisyan/my-step-count-analysis/blob/main/Main.ipynb).
 
 
